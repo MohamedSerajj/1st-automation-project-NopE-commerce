@@ -1,0 +1,53 @@
+<suite name="ECommerceTestSuite">
+
+
+
+    <test name="ECommerceTest 1">
+        <classes>
+            <class name="SuccessfulOrder_Test_Cases"/>
+        </classes>
+    </test>
+
+    <test name="ECommerceTest 2">
+        <classes>
+            <class name="Search_Item_Test_Cases"/>
+        </classes>
+    </test>
+
+    <test name="ECommerceTest 3">
+        <classes>
+            <class name="AddToWishList_Test_Cases"/>
+        </classes>
+    </test>
+
+    <test name="ECommerceTest 4">
+        <classes>
+            <class name="RegisterPage_Test_Cases"/>
+        </classes>
+    </test>
+
+    <test name="ECommerceTest 5">
+        <classes>
+            <class name="LoginPage_Test_Cases"/>
+        </classes>
+    </test>
+
+    <test name="ECommerceTest 6">
+        <classes>
+            <class name="ChangeCurrency_Test_Cases"/>
+        </classes>
+    </test>
+
+    <test name="ECommerceTest 7">
+        <classes>
+            <class name="AddToCart_Test_Cases"/>
+        </classes>
+    </test>
+
+    <test name="ECommerceTest 8">
+        <classes>
+            <class name="CompareTwoItem_Test_Cases"/>
+        </classes>
+    </test>
+
+</suite>
